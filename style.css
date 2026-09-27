@@ -1,5 +1,6 @@
-*{
+body{
     background-attachment: #fff;
-    font-size: medium;
-    font: 1em sans-serif;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
